@@ -1,0 +1,41 @@
+.backgroundimage{
+    width: 50vw 40vh;
+}
+.navigationbar{
+    background-image: url(./images/trees-1866597_1280.jpg);
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+   
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: xx-large;
+    top: 0;
+    bottom: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.footer{
+    font-style: italic;
+    font-size: x-large;
+    margin-top: 15px;
+    height: 70px;
+    border-radius: 7px;
+    block-size: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.images{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+}
+.header{
+    margin-top: 70px;
+    text-align: center;
+    font-size: xx-large;
+}
