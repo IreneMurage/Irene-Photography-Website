@@ -38,12 +38,6 @@ a:hover{
     margin-bottom: 10px;
     font-family: cursive;
     color: orangered;
-}#para{
-    font-family: 'Times New Roman', Times, serif;
-    background-position: center;
-    font-size: large;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
 .images{
     display: flex;
