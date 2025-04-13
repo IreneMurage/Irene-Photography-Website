@@ -82,6 +82,9 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     color: black;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
 }
 #biography{
     font-family: 'Times New Roman', Times, serif;
@@ -121,4 +124,8 @@ button{
 }
 .para{
     font-family: 'Times New Roman', Times, serif;
+}
+.paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
