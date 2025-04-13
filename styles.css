@@ -89,3 +89,25 @@ h3{
     margin-bottom: 20px;
     margin-top: 0%;
 }
+.message{
+    margin-bottom: 20px;
+}
+.fullname{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.email{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+label{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 20px;
+    margin-left: 10px;
+}
+button{
+   float: left;
+
+}
