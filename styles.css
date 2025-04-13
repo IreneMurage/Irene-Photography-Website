@@ -111,3 +111,14 @@ button{
    float: left;
 
 }
+.me{
+    width: 200px;
+    height: 150px;
+}
+.describeme{
+    font-style: italic;
+    color: brown;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+}
