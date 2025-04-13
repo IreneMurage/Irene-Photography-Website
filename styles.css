@@ -1,48 +1,90 @@
-.backgroundimage{
-    width: 50vw 40vh;
+*{
+    margin: 0;
+    padding: 0;
 }
-.navigationbar{
+.navbar{
     background-image: url(./images/forrest.jpg);
     width: 100%;
-    height: 50vh;
+    height: 70vh;
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
-    font-size: xx-large;
+    justify-content: space-between;
     top: 0;
     bottom: 0;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+
+}
+.banner{
+    width: 100%;
+    height: 70vh;
+    background-image:url(./images/forrest.jpg);
+    background-position: center;
+    background-size: cover;
 }
 a{
     color: white;
     font-family: sans-serif;
+    text-decoration: none;
+    font-size: 20px;
     
 }
-.footer{
-    font-style: italic;
-    font-size: x-large;
-    margin-top: 15px;
-    border-radius: 7px;
-    block-size: 100px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    border: 5px solid black;
+
+.header{
+    margin-top: 20px;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    background-position: center;
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    text-align: center;
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
 }
 .images{
     display: flex;
     gap: 20px;
     flex-wrap:wrap;
     justify-content: space-evenly;
+    padding: 20px;
+   
 }
-.header{
-    margin-top: 70px;
-    text-align: center;
-    font-size: xx-large;
+.mine{
+    height: 230px;
+    border-radius: 10px;
+    justify-content: space-evenly;
 }
-p{
+img{
+    width: 350px;
+    height: 320px;
+}
+.para{
     font-family: 'Times New Roman', Times, serif;
     background-position: center;
     font-size: large;
+    margin-top: 200px;
+    margin-bottom: 25px;
+}
+.footer{
+    font-style: italic;
+    font-size: x-large;
+    margin-top: 15px;
+    block-size: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
 }
