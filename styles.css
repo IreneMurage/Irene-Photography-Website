@@ -25,6 +25,7 @@ a{
     text-decoration: none;
     font-size: 20px;
     transition: 0.5;
+
 }
 a:hover{
     color: orangered;
@@ -61,7 +62,11 @@ img{
     width: 350px;
     height: 320px;
 }
-.para{
+.boxmodel{
+    border: 2px solid black;
+    padding: 6px;
+    margin: 10px;
+    background-color: grey;
     font-family: 'Times New Roman', Times, serif;
     background-position: center;
     font-size: large;
