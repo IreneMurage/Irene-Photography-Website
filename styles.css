@@ -50,17 +50,15 @@ p{
     gap: 20px;
     flex-wrap:wrap;
     justify-content: space-evenly;
-    padding: 20px;
+    padding: 5px;
    
 }
-.mine{
-    height: 230px;
+
+img{
+    width: 400px;
+    height: 320px;
     border-radius: 10px;
     justify-content: space-evenly;
-}
-img{
-    width: 350px;
-    height: 320px;
 }
 .boxmodel{
     border: 2px solid black;
