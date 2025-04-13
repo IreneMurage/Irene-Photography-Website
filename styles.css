@@ -84,3 +84,14 @@ img{
     align-items: center;
 
 }
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+}
+#biography{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-bottom: 20px;
+    margin-top: 0%;
+}
