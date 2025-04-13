@@ -37,8 +37,7 @@ a:hover{
     font-size: xx-large;
     margin-bottom: 10px;
     font-family: cursive;
-}
-p{
+}#para{
     font-family: 'Times New Roman', Times, serif;
     background-position: center;
     font-size: large;
@@ -50,16 +49,18 @@ p{
     gap: 20px;
     flex-wrap:wrap;
     justify-content: space-evenly;
-    padding: 5px;
-   
+    padding: 40px;
+   text-align: center;
 }
 
 img{
     width: 400px;
     height: 320px;
-    border-radius: 10px;
+    border-radius: 30px;
     justify-content: space-evenly;
+
 }
+
 .boxmodel{
     border: 2px solid black;
     padding: 6px;
