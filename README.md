@@ -14,7 +14,7 @@ Irene Photography Website is a personal portfolio where I share the photos I've 
   - `images/` – folder containing all photos
   - `README.md` – documentation
 
-You can view the live site here: [GitHub](https://github.com/IreneMurage/Irene-Photography-Website)
+You can view the live site here: [GitHub](https://irenemurage.github.io/Irene-Photography-Website/)
 
 ## Known Bugs  
 There are currently no known bugs.  
